@@ -31,7 +31,7 @@ Follow these instructions to set up and run the GreenTech House application on y
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/Mufli-Mohideen/Green-Tech-House-Mobile-Application.git
+   git clone https://github.com/Prasad-k-Github/Green-Tech-House-Mobile-Application.git
    cd Green-Tech-House-Mobile-Application
 
 2. **Set Up Firebase**
